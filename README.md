@@ -28,5 +28,5 @@ Ex: CS 211 Fall 2022 <br />
   DBMS:101 2022 Fall<br />
   DBMS-101 2021 Summer<br />
   
- #Note
+ **Note**
  Please run npm i on course-manager folder
